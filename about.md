@@ -7,7 +7,7 @@ Hello!
 
 Welcome to my website.
 
-![](/assets/images/film_photo/sunset.jpg){:width='100%'}
+![Sunset](/assets/images/film_photo/sunset.jpg)
 
 
 

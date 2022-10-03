@@ -1,3 +1,17 @@
-title: Rachata's Blog
+title: rachata's 
 
-remote_theme: no-style-please
+author: Rachata Kongcheep # name of site's author
+email: rachata.kongcheep@gmail.com # email of site's author
+url: https://rkongcheep.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  Try to find
+  Some way
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home pag

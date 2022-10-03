@@ -2,7 +2,10 @@
 entries:
   - title: about me and this website
     url: /about
-    entries: false
+    entries: 
+    - title: my email(mailto:rachata.kongcheep@gmail.com)
+    
+
 
       
   - title: all posts

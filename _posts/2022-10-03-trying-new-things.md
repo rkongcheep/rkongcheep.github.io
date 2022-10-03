@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FIRSTPOST"
+title: "try new things"
 date: 2022-10-02 21:02:00 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---

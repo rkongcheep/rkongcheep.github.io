@@ -7,9 +7,10 @@ categories: CATEGORY-1 CATEGORY-2
 
 ## Hellooo
 
----
 
 This is my first post
 
----
+Welcome to rachata.town
+
+
 

@@ -1,8 +1,9 @@
+
 entries:
-  - title: test
-    entries:
-      - title: Test
-      - title: testtest
+  - title: about me and this website
+    url: /about
+    entries: false
+
       
   - title: all posts
     post_list:

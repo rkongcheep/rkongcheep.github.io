@@ -1,13 +1,13 @@
 
 entries:
-  - title: about me and this website
-    url: /about
+  - title: info
     entries: 
-    - title: [my email](mailto:rachata.kongcheep@gmail.com)
+    - title: about me and this website
+      url: /about
+
+    - title: [my_email](mailto:rachata.kongcheep@gmail.com)
     
 
-
-      
   - title: all posts
     post_list:
       limit: 5

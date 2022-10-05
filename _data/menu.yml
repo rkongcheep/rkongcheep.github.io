@@ -3,7 +3,7 @@ entries:
   - title: info
     entries: 
     - title: about me and this website
-      url: /about
+        url: /about
 
     - title: [my_email](mailto:rachata.kongcheep@gmail.com)
     

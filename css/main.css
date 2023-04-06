@@ -1,0 +1,128 @@
+
+*{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+/* General style */
+body {
+    /* font color to white */
+    color: white;
+    font-size: 1.2em;
+    background-color: white;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.toggle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+.overlay {
+    width: 100%;
+    /* Center overlay */
+    /* margin: 0 auto; */
+    /* max-width: 1140px;
+    max-height: 640px; */
+    /* padding: 2rem 6rem; */
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.32);
+    box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
+    /* border-radius: 2rem; */
+    border: 1px solid rgba(255, 255, 255, 0.125);
+  }
+
+.canvas-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.menus-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.container {
+    font-style: italic;
+    padding: 0.2em;
+    width: 100%;
+    text-align: center;
+}
+
+.container-footer {
+    font-style: italic;
+    padding: 0.2em;
+    width: 100%;
+    padding-top: 7em;
+    /* text-align: center; */
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+}
+
+.col-6 {
+    /* Reduce margin */
+    
+    width: 60%;
+    float: left;
+    padding-left: 3em;
+}
+
+.cool-list {
+    /* Add left space for list */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cool-bullet {
+    /* Add left space for list */
+    list-style-type: none;
+    margin: 0.2em;
+    padding-left: 1em;
+}
+
+.cool-link {
+    /* Add underline,hover effect */
+    text-decoration: underline;
+    color: white;
+    transition: 0.3s;
+}
+
+.cool-link:hover {
+    /* Add underline,hover effect */
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.252);
+}
+
+
+body {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+  }
+
+
+  
